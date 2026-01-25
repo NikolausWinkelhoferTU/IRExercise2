@@ -1,0 +1,5 @@
+zone,df_bins,dt_min_frames,dt_max_frames,total_hashes,num_tracks,top_k_targets,db_file_size_bytes
+Fsmall_Tshort,50,1,20,3010732,511,5,147912013
+Fsmall_Tlong,50,1,60,3757459,511,5,147912013
+Flarge_Tshort,150,1,20,3753352,511,5,147912013
+Flarge_Tlong,150,1,60,3814774,511,5,147912013
